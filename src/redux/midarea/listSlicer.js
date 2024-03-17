@@ -7,11 +7,7 @@ export const listSlicer = createSlice({
       {
         id: 'midAreaList-0',
         comps: [
-          { type: 'MOVE', value: 20 },
-          { type: 'MOVE_Y', value: 20 },
-          { type: 'TURN_ANTI_CLOCKWISE', value: 20 },
-          { type: 'SAY_MESSAGE', value: 'Hello' },
-          { type: 'REPEAT', value: 4},
+          { type: 'MOVE', value: 0 }
         ],
       },
     ],
